@@ -5,5 +5,6 @@ This repository is for learning Tailwind CSS from a beginner perspective with a 
 lesson_intro - introdution to classes on Tailwind CSS. \
 lesson_spacing - learn about spacing classes (margins, padding) \
 lesson_box_properties - learn about background, borders, rounding, shadows \
-lesson4_sizing - learn numbering scheme \
-lesson5_typography - learn typography
+lesson4_sizing - learn numbering scheme classes \
+lesson5_typography - learn typography classes \
+lesson6_colors - learning color classes
