@@ -7,4 +7,5 @@ lesson_spacing - learn about spacing classes (margins, padding) \
 lesson_box_properties - learn about background, borders, rounding, shadows \
 lesson4_sizing - learn numbering scheme classes \
 lesson5_typography - learn typography classes \
-lesson6_colors - learning color classes
+lesson6_colors - learning color classes \
+lesson7_pseudo - learning pseudo, transitions and transforms, animations
