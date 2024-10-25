@@ -10,4 +10,5 @@ lesson5_typography - learn typography classes \
 lesson6_colors - learning color classes \
 lesson7_pseudo - learning pseudo, transitions and transforms, animations \
 lesson8_gradients - learning gradients \
-lesson9_container - learning container class, relative-absolute positioning
+lesson9_container - learning container class, relative-absolute positioning \
+lesson10_responsive - learning responsiveness
