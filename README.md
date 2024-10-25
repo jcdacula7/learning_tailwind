@@ -13,4 +13,5 @@ lesson8_gradients - learning gradients \
 lesson9_container - learning container class, relative-absolute positioning \
 lesson10_responsive - learning responsiveness \
 lesson11_flexbox - learning flexbox with responsiveness \
-lesson12_grid - learning grid
+lesson12_grid - learning grid \
+lesson13_cards - creating card with responsiveness
