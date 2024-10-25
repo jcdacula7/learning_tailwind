@@ -12,4 +12,5 @@ lesson7_pseudo - learning pseudo, transitions and transforms, animations \
 lesson8_gradients - learning gradients \
 lesson9_container - learning container class, relative-absolute positioning \
 lesson10_responsive - learning responsiveness \
-lesson11_flexbox - learning flexbox with responsiveness
+lesson11_flexbox - learning flexbox with responsiveness \
+lesson12_grid - learning grid
